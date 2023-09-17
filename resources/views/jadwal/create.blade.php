@@ -42,7 +42,7 @@
                             </span>
                             @enderror
                             <br>
-                                <label for="">Masukan jam_pulang</label>
+                                <label for="">Masukan Jam Pulang</label>
                             <input type="text" name="jam_pulang" class="form-control @error('jam_pulang') is-invalid @enderror" placeholder="Masukkan Jam Pulang, jika tidak hadir ketik --">
                             @error('jam_pulang')
                             <span class="invalid-feedback" role="alert">

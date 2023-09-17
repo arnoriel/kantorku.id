@@ -9,4 +9,15 @@
             </center>
             </div>
     </div>
+    <br>
+    <div class="card">
+        <div class="card-body">
+            <strong>Catatan saat memasukkan Absensi dan Presensi !</strong>
+            <br>
+            <br>
+            <p>- Mengisi formulir Absensi dan Presensi dengan Tepat.</p>
+            <p>- Jika jam Masuk, jam Piket, dan jam Pulang diisi dengan waktu yang ditentukan, maka saat Masuk, Piket, dan Pulang harus sesuai dengan waktu yang ditentukan.</p>
+            <p>- Setelah mengisi formulir Absensi dan Presensi silahkan segera Log Out.</p>
+        </div>
+    </div>
 @endsection

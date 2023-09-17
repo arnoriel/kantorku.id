@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Kantorku.id</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -33,11 +33,13 @@
                 </div>
             @endif
             <center>
-            <div class="card" style="margin: 20%; width: 20rem;">
-                <div class="card-body">
-                    <h5>Selamat datang di Aplikasi Kantorku.id</h5>
-                </div>
-            </div>
+                <div class="card mb-3" style="max-width: 500px; margin: 2%;">
+                    <img src="{{asset('img/asset/welcome.jpg')}}" class="card-img-top" alt="..." style="height: 420px; width: 450px;">
+                    <div class="card-body">
+                      <h5 class="card-title">Selamat Datang di Kantorku.id</h5>
+                      <p class="card-text">Silahkan Login</p>
+                    </div>
+                  </div>
             </center>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>

@@ -3,7 +3,7 @@
 @section('content')
 <div class="card shadow mb-4" style="margin: 1%;">
     <div class="card-header py-3">
-        <h6 class="m-0 font-weight-bold text-primary">Data jadwal</h6>
+        <h6 class="m-0 font-weight-bold text-primary">Data Absensi dan Presensi</h6>
         <br>
     </div>
     <div class="card-body">
